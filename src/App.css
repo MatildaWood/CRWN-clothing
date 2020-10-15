@@ -1,0 +1,13 @@
+body {
+  font-family: 'Open Sans Condensed', cursive;
+  padding: 20px 70px;
+}
+
+a {
+  text-decoration: none;
+  color: #7F6C6C;
+}
+
+* {
+  box-sizing: border-box;
+}
